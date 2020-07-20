@@ -1,0 +1,23 @@
+{
+  "name": "tempo",
+  "version": "1.0.0",
+  "description": "A realtime socket",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeezyHendrix/tempo.git"
+  },
+  "keywords": ["websockets", "native websockets", "nodejs websockets"],
+  "author": "AbdulHafeez Abdulraheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeezyHendrix/tempo/issues"
+  },
+  "homepage": "https://github.com/FeezyHendrix/tempo#readme"
+}
