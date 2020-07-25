@@ -1,7 +1,7 @@
 {
   "name": "tempo",
   "version": "1.0.0",
-  "description": "A realtime socket",
+  "description": "A realtime socket wrapper around ws",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -13,11 +13,19 @@
     "type": "git",
     "url": "git+https://github.com/FeezyHendrix/tempo.git"
   },
-  "keywords": ["websockets", "native websockets", "nodejs websockets"],
+  "keywords": [
+    "websockets",
+    "native websockets",
+    "nodejs websockets"
+  ],
   "author": "AbdulHafeez Abdulraheem",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FeezyHendrix/tempo/issues"
   },
-  "homepage": "https://github.com/FeezyHendrix/tempo#readme"
+  "homepage": "https://github.com/FeezyHendrix/tempo#readme",
+  "dependencies": {
+    "uuid": "^8.2.0",
+    "ws": "^7.3.1"
+  }
 }
