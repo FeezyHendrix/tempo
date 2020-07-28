@@ -8,4 +8,4 @@ Tempo is a utility library that helps with managing sending payloads and events 
 - creation of events on tempo ws server
 - emit events from server to client
 - creation of groups and emitting to a group of sockets
-- As the spirits leads from these points.
+- Vibes from here on.
